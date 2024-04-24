@@ -1,0 +1,3 @@
+/Users/lasse/source/cpp_weather/build/CMakeFiles/cppWeather.dir
+/Users/lasse/source/cpp_weather/build/CMakeFiles/edit_cache.dir
+/Users/lasse/source/cpp_weather/build/CMakeFiles/rebuild_cache.dir
