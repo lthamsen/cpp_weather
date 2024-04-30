@@ -16,7 +16,7 @@ message("cppWeather is using current source dir = ${CMAKE_CURRENT_SOURCE_DIR}")
 add_executable(cppWeather src/weather.cpp)
 
 # Using cpp23 standard
-target_compile_features(cppWeather PUBLIC cxx_std_23)
+target_compile_features(cppWeather PUBLIC cxx_std_20)
 
 # Finding curl 
 find_package(CURL REQUIRED)
