@@ -7,7 +7,7 @@ This project presents a small example describing how to make api calls using lib
 - [cmake](https://cmake.org/) > 3.6
 - [libcurl](https://github.com/curl/curl)
 
-*You will have to figure out how to install those dependencies for your specific system!*
+*You will have to figure out how to install those dependencies, for your specific system, on your own!*
 
 ## Build and run the project
 This example applies on Mac-os and Linux. 
