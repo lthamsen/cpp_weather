@@ -1,5 +1,5 @@
 # cpp_weather
-This project presents a small example describing how to make api calls using libcurl, the example is nearly completely based on [this curl example](https://gist.github.com/alghanmi/c5d7b761b2c9ab199157). An example for parsing json formatted responses is also provided using [nlohmann/json](https://github.com/nlohmann/json).  
+This project presents a small example describing how to make api calls using libcurl, the example is nearly completely based on [this curl example](https://gist.github.com/alghanmi/c5d7b761b2c9ab199157). An example for parsing json formatted responses is also provided using [nlohmann/json](https://github.com/nlohmann/json). Example api calls are made to [chubin/wttr.in](https://github.com/chubin/wttr.in).
 
 ## Dependencies needed to build the project
 - The newest version of [clang](https://clang.llvm.org/) or [gcc](https://gcc.gnu.org/) is recommended.
